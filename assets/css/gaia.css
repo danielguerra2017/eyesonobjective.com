@@ -3857,28 +3857,12 @@ div.description div#standingDiv #standingTable {
 div.description div#standingDiv table#standingTable tr th {
   background-color: #DF0101;
   font-weight: bold;
-  text-align: left;
+  text-align: center;
   vertical-align: center;
   color: #FFFFFF;
 }
 
 div.description div#standingDiv table#standingTable tr td {
-  background-color: #FFFFFF;
-  font-weight: bold;
-  text-align: left;
-  vertical-align: center;
-  color: #000000;
-}
-
-div.description div#standingDiv table#standingTable tr td:nth-child(3n+1) {
-  background-color: #FFFFFF;
-  font-weight: bold;
-  text-align: center;
-  vertical-align: center;
-  color: #000000;
-}
-
-div.description div#standingDiv table#standingTable tr:nth-child(2n+3) td:nth-child(3n+1) {
   background-color: #FFFFFF;
   font-weight: bold;
   text-align: center;
@@ -3889,7 +3873,7 @@ div.description div#standingDiv table#standingTable tr:nth-child(2n+3) td:nth-ch
 div.description div#standingDiv table#standingTable tr:nth-child(2n+3) td {
   background-color: #EEEEEE;
   font-weight: bold;
-  text-align: left;
+  text-align: center;
   vertical-align: center;
   color: #000000;
 }
@@ -3946,71 +3930,3 @@ div.description div#registerDiv table#registerTable tr td#rightjustified {
   vertical-align: center;
   color: #FFFFFF;
 }
-
-main{
-  display:flex;
-  flex-direction:row;
-}
-.round{
-  display:flex;
-  flex-direction:column;
-  justify-content:center;
-  width:200px;
-  list-style:none;
-  padding:0;
-}
-  .round .spacer{ flex-grow:1; }
-  .round .spacer:first-child,
-  .round .spacer:last-child{ flex-grow:.5; }
-
-  .round .game-spacer{
-    flex-grow:1;
-  }
-
-body{
-  font-family:sans-serif;
-  font-size:small;
-  line-height:1.4em;
-}
-
-li.game{
-  padding-left:20px;
-}
-
-  li.game.winner{
-    background-color: #336600;
-    font-weight: bold;
-    color: #FFFFFF;
-  }
-
-  li.game.loser{
-    background-color: #DF0101;
-    font-weight: bold;
-    color: #FFFFFF;
-  }
-
-  li.game.tba{
-    background-color: #808080;
-    font-weight: bold;
-    color: #000000;
-  }
-
-  li.game span.score{
-    float:right;
-    margin-right:5px;
-  }
-
-  li.game span.rip{
-    text-decoration: line-through; 
-  }
-
-  li.game-top{ border-bottom:1px solid #aaa; }
-
-  li.game-spacer{ 
-    border-right:1px solid #aaa;
-    min-height:40px;
-  }
-
-  li.game-bottom{ 
-    border-top:1px solid #aaa;
-  }

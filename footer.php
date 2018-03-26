@@ -16,7 +16,7 @@
                          <nav>
                             <ul>
                                 <li>
-                                    <a href="mailto:eyesonobjective@gmail.com?Subject=WOD%20Question">Contact Us</a>
+                                    <a href="mailto:eyesonobjective@gmail.com?Subject=EOO%20Question">Contact Us</a>
                                 </li>
                                 <li>
                                     <a href="mailto:eyesonobjective@gmail.com?Subject=Sponsor%20a%20Tournament">Sponsor a Tournament</a>
@@ -34,14 +34,14 @@
                         <nav>
                             <ul>
                                 <li>
-                                    <a href="https://www.facebook.com/groups/1816259062005637/">
-                                        <i class="fa fa-facebook-square"></i> <strong>Fight For The Cup!</strong> The T8 FL S1 tournament Championship match is set for this weekend! dF vs NAC will battle it out to see who is the true champ!
+                                    <a href="https://www.facebook.com/EyesOnObj/">
+                                        <i class="fa fa-facebook-square"></i> <strong>Open for business!</strong> EOO kicks off its first tournament on Jan 5, 2018! Register your team now!
                                         <hr class="hr-small">
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.facebook.com/groups/1816259062005637/">
-                                        <i class="fa fa-facebook-square"></i>We thank our community for all of their support!
+                                    <a href="https://www.facebook.com/EyesOnObj/">
+                                        <i class="fa fa-facebook-square"></i>We thank our community and sponsors for all of their support!
                                     </a>
                                 </li>
                             </ul>
@@ -54,7 +54,7 @@
                         <nav>
                             <ul>
                                 <li>
-                                    <a href="https://www.facebook.com/groups/1816259062005637/" class="btn btn-social btn-facebook btn-simple">
+                                    <a href="https://www.facebook.com/EyesOnObj/" class="btn btn-social btn-facebook btn-simple">
                                         <i class="fa fa-facebook-square"></i> Facebook
                                     </a>
                                 </li>
@@ -65,7 +65,7 @@
             </div>
             <hr>
             <div class="copyright">
-                 © <script> document.write(new Date().getFullYear()) </script> Win Or Die
+                 © <script> document.write(new Date().getFullYear()) </script> Eyes On Objective
             </div>
         </div>
     </footer>

@@ -1,5 +1,3 @@
-<!DOCTYPE HTML>
-
 <?php
     include ('../header.php');
 ?>
@@ -26,7 +24,7 @@
     <div class="section section-our-clients-freebie">
         <div class="container">
             <div class="title-area">
-                <h5 class="subtitle text-gray">WOD Approved</h5>
+                <h5 class="subtitle text-gray">EOO Approved</h5>
                 <h2>Livestreams</h2>
                 <div class="separator separator-danger">♦</div>
             </div>
@@ -37,27 +35,27 @@
                             <table id="psnTable">
                                 <tr>
                                     <td id="psnTdOne"><img src="../assets/img/logo/psnLogo.png" height="35px" width="35px"></td>
-                                        <td id="psnTdTwo">MikeWrecka</td>
+                                        <td id="psnTdTwo">PsYcHoTiQuE_93</td>
                                 </tr>
                             </table>
                         </div>
-                        <!-- <div id="teamDiv">
+                        <div id="teamDiv">
                             <table id="teamTable">
                                 <tr>
                                     <td id="teamTdOne">TWITCH CHANNEL</td>
                                 </tr>
                                 <tr>
-                                    <td id="teamTdTwo"><a href="https://www.twitch.tv/livinstrangegaming" class="btn btn-danger btn-fill btn-sm">VIEW</td>
+                                    <td id="teamTdTwo"><a href="https://www.twitch.tv/lunalight93" class="btn btn-danger btn-fill btn-sm">VIEW</td>
                                 </tr>
                             </table>
-                        </div> -->
+                        </div>
                         <div id="teamDiv">
                             <table id="teamTable">
                                 <tr>
                                     <td id="teamTdOne">YOUTUBE CHANNEL</td>
                                 </tr>
                                 <tr>
-                                    <td id="teamTdTwo"><a href="https://www.youtube.com/channel/UCxHnFIyJmh5z1XZAf3vqtYg" class="btn btn-danger btn-fill btn-sm">VIEW</a></td>
+                                    <td id="teamTdTwo"><a href="https://www.youtube.com/channel/UCIycUnornbQ30vcRtP6M0ew" class="btn btn-danger btn-fill btn-sm">VIEW</a></td>
                                 </tr>
                             </table>
                         </div>
@@ -68,11 +66,11 @@
                             <table id="psnTable">
                                 <tr>
                                     <td id="psnTdOne"><img src="../assets/img/logo/psnLogo.png" height="35px" width="35px"></td>
-                                        <td id="psnTdTwo">Blakvanz84</td>
+                                        <td id="psnTdTwo">Darkfollower1996</td>
                                 </tr>
                             </table>
                         </div>
-                        <!-- <div id="teamDiv">
+                        <div id="teamDiv">
                             <table id="teamTable">
                                 <tr>
                                     <td id="teamTdOne">TWITCH CHANNEL</td>
@@ -81,14 +79,14 @@
                                     <td id="teamTdTwo"><a href="https://www.twitch.tv/darkfollower1996" class="btn btn-danger btn-fill btn-sm">VIEW</a></td>
                                 </tr>
                             </table>
-                        </div> -->
+                        </div>
                         <div id="teamDiv">
                             <table id="teamTable">
                                 <tr>
                                     <td id="teamTdOne">YOUTUBE CHANNEL</td>
                                 </tr>
                                 <tr>
-                                    <td id="teamTdTwo"><a href="https://www.youtube.com/channel/UCO58fb0qLRy9oUZ5K2fAMMQ" class="btn btn-danger btn-fill btn-sm">VIEW</a></td>
+                                    <td id="teamTdTwo"><a href="https://www.youtube.com/user/JFWebbGuitarClub" class="btn btn-danger btn-fill btn-sm">VIEW</a></td>
                                 </tr>
                             </table>
                         </div>
@@ -108,11 +106,7 @@
                             <h2>Video of the Week</h2>
                             <div class="separator separator-danger">♦</div>
                             <div id="mvpDiv">
-                                <p id="mvpBox"><span style="color: #DF0101; font-weight: bold;">Feb 23 - T8 FL S1 Semi-Finals:</span> [WARP] WAR Pigs vs [dF] Defiance Gaming
-                                <br>
-                                <iframe src="https://www.youtube.com/embed/gaRBPV_BxkU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                                <br>
-                                [dF] wins 2-0 in a hard fought match from both teams!
+                                <p id="mvpBox"><span style="color: #DF0101; font-weight: bold;">Dec 24, 2017:</span> Stay tuned as the top livestream videos will be posted here! Get ready to see plenty of action as our streamers follow every EOO battle!
                                 </p>
                             </div>
                         </div>
